@@ -1,0 +1,4 @@
+/firebase/*
+/csv/*
+
+node_modules/

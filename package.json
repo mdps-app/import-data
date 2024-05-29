@@ -1,0 +1,12 @@
+{
+    "main": "index.js",
+    "scripts": {
+        "import": "node index.js"
+    },
+    "dependencies": {
+        "csv-parser": "^2.3.3",
+        "firebase-admin": "^9.2.0",
+        "fs": "^0.0.1-security"
+    },
+    "license": "MIT"
+}
